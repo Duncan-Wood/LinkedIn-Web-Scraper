@@ -1,30 +1,29 @@
-#https://www.youtube.com/watch?v=d4iz2NrZVRg
-#https://scrapeops.io/app/dashboard
+# Ignoring various files and directories
+
+# Virtual environment
 /venv
+
+# Flask settings file
 settings.py
 
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+# Dependencies and build artifacts for React frontend
+react-frontend/node_modules
+react-frontend/.pnp
+react-frontend/.pnp.js
+react-frontend/coverage
+react-frontend/build
 
-# dependencies
-/node_modules
-/.pnp
-.pnp.js
-
-# testing
-/coverage
-
-# production
-/build
-
-# misc
+# Miscellaneous files and directories
 .DS_Store
 .env.local
 .env.development.local
 .env.test.local
 .env.production.local
-
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Sources Used:
+# https://www.youtube.com/watch?v=d4iz2NrZVRg
+# https://scrapeops.io/app/dashboard
 # https://maoviola.medium.com/a-complete-guide-to-web-scraping-linkedin-job-postings-ad290fcaa97f
