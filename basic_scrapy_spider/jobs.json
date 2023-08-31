@@ -5,7 +5,8 @@
     "job_listed": "1 day ago",
     "company_name": "Harry Winston",
     "company_link": "https://www.linkedin.com/company/harry-winston?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "New York City Metropolitan Area"
+    "company_location": "New York City Metropolitan Area",
+    "index": 0
   },
   {
     "job_title": "Sr Associate, Analytics",
@@ -13,7 +14,8 @@
     "job_listed": "1 day ago",
     "company_name": "LinkedIn",
     "company_link": "https://www.linkedin.com/company/linkedin?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Sunnyvale, CA"
+    "company_location": "Sunnyvale, CA",
+    "index": 1
   },
   {
     "job_title": "Python Developer",
@@ -21,7 +23,8 @@
     "job_listed": "1 week ago",
     "company_name": "Two Fish Creative",
     "company_link": "https://www.linkedin.com/company/two-fish-creative?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "West Palm Beach, FL"
+    "company_location": "West Palm Beach, FL",
+    "index": 2
   },
   {
     "job_title": "Python Application Developer",
@@ -29,7 +32,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "Donato Technologies, Inc.",
     "company_link": "https://www.linkedin.com/company/donatotechnologies?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 3
   },
   {
     "job_title": "Python/R Developer",
@@ -37,7 +41,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "Sonitalent Corp",
     "company_link": "https://www.linkedin.com/company/sonitalent-corp?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 4
   },
   {
     "job_title": "Python Developer",
@@ -45,7 +50,8 @@
     "job_listed": "1 month ago",
     "company_name": "IT Minds LLC",
     "company_link": "https://www.linkedin.com/company/itminds-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "McLean, VA"
+    "company_location": "McLean, VA",
+    "index": 5
   },
   {
     "job_title": "Python Developer",
@@ -53,7 +59,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "VRK IT Vision Inc.",
     "company_link": "https://www.linkedin.com/company/vrkitvisioninc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "O'Fallon, MO"
+    "company_location": "O'Fallon, MO",
+    "index": 6
   },
   {
     "job_title": "Python Developer (Entry Level)",
@@ -61,7 +68,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Baltimore, MD"
+    "company_location": "Baltimore, MD",
+    "index": 7
   },
   {
     "job_title": "Python Developer",
@@ -69,7 +77,8 @@
     "job_listed": "1 day ago",
     "company_name": "Mapout Digital solutions inc",
     "company_link": "https://www.linkedin.com/company/mapoutinc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Irving, TX"
+    "company_location": "Irving, TX",
+    "index": 8
   },
   {
     "job_title": "Entry Level Python Developer",
@@ -77,7 +86,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Boston, MA"
+    "company_location": "Boston, MA",
+    "index": 9
   },
   {
     "job_title": "Python Developer",
@@ -85,7 +95,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "Steneral Consulting",
     "company_link": "https://www.linkedin.com/company/steneral-consulting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Fallon, MT"
+    "company_location": "Fallon, MT",
+    "index": 10
   },
   {
     "job_title": "Python Developer",
@@ -93,7 +104,8 @@
     "job_listed": "3 hours ago",
     "company_name": "Take2 Consulting, LLC",
     "company_link": "https://www.linkedin.com/company/take2-consulting-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 11
   },
   {
     "job_title": "Python Developer",
@@ -101,7 +113,8 @@
     "job_listed": "1 week ago",
     "company_name": "VRK IT Vision Inc.",
     "company_link": "https://www.linkedin.com/company/vrkitvisioninc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Owings Mills, MD"
+    "company_location": "Owings Mills, MD",
+    "index": 12
   },
   {
     "job_title": "Data Analyst",
@@ -109,7 +122,8 @@
     "job_listed": "40 minutes ago",
     "company_name": "Nevro",
     "company_link": "https://www.linkedin.com/company/nevro-hfx?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Redwood Valley, CA"
+    "company_location": "Redwood Valley, CA",
+    "index": 13
   },
   {
     "job_title": "Business Analyst",
@@ -117,7 +131,8 @@
     "job_listed": "1 day ago",
     "company_name": "Facebook",
     "company_link": "https://www.linkedin.com/company/facebook?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Texas, United States"
+    "company_location": "Texas, United States",
+    "index": 14
   },
   {
     "job_title": "Junior python developer",
@@ -125,7 +140,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "KGS Technology Group, Inc",
     "company_link": "https://www.linkedin.com/company/techkgs?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Roswell, GA"
+    "company_location": "Roswell, GA",
+    "index": 15
   },
   {
     "job_title": "Entry level python developer",
@@ -133,7 +149,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Dallas, TX"
+    "company_location": "Dallas, TX",
+    "index": 16
   },
   {
     "job_title": "Business Analyst",
@@ -141,7 +158,8 @@
     "job_listed": "2 hours ago",
     "company_name": "Insight Global",
     "company_link": "https://www.linkedin.com/company/insight-global?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 17
   },
   {
     "job_title": "Python Engineer",
@@ -149,7 +167,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "Lorven Technologies Inc.",
     "company_link": "https://www.linkedin.com/company/lorventech?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Austin, TX"
+    "company_location": "Austin, TX",
+    "index": 18
   },
   {
     "job_title": "Junior Python Developer",
@@ -157,7 +176,8 @@
     "job_listed": "1 week ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Philadelphia, PA"
+    "company_location": "Philadelphia, PA",
+    "index": 19
   },
   {
     "job_title": "Python Developer",
@@ -165,7 +185,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "First Critique Services",
     "company_link": "https://www.linkedin.com/company/first-critique-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Dallas, TX"
+    "company_location": "Dallas, TX",
+    "index": 20
   },
   {
     "job_title": "Data Science AI/Developer/Python",
@@ -173,7 +194,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "Adame Services",
     "company_link": "https://www.linkedin.com/company/adameservices?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Boca Raton, FL"
+    "company_location": "Boca Raton, FL",
+    "index": 21
   },
   {
     "job_title": "Python Developer",
@@ -181,7 +203,8 @@
     "job_listed": "1 month ago",
     "company_name": "Wise Skulls",
     "company_link": "https://www.linkedin.com/company/wearewiseskulls?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Austin, TX"
+    "company_location": "Austin, TX",
+    "index": 22
   },
   {
     "job_title": "Cyber Fraud Data Analyst",
@@ -189,7 +212,8 @@
     "job_listed": "1 day ago",
     "company_name": "SoFi",
     "company_link": "https://www.linkedin.com/company/sofi?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 23
   },
   {
     "job_title": "Python Programmer and Scripting Developer",
@@ -197,7 +221,8 @@
     "job_listed": "1 month ago",
     "company_name": "Zortech Solutions",
     "company_link": "https://ca.linkedin.com/company/zortech?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 24
   },
   {
     "job_title": "Software Engineer",
@@ -205,7 +230,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "Eezy",
     "company_link": "https://www.linkedin.com/company/eezy.com?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Nashville, TN"
+    "company_location": "Nashville, TN",
+    "index": 25
   },
   {
     "job_title": "Software Engineer",
@@ -213,7 +239,8 @@
     "job_listed": "1 day ago",
     "company_name": "SpiderOak",
     "company_link": "https://www.linkedin.com/company/spideroak?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Austin, TX"
+    "company_location": "Austin, TX",
+    "index": 26
   },
   {
     "job_title": "Back-End Developer",
@@ -221,7 +248,8 @@
     "job_listed": "1 day ago",
     "company_name": "Pasquali Solution",
     "company_link": "https://br.linkedin.com/company/pasquali-solution-tech?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Home, KS"
+    "company_location": "Home, KS",
+    "index": 27
   },
   {
     "job_title": "Python Software Engineer",
@@ -229,7 +257,8 @@
     "job_listed": "12 hours ago",
     "company_name": "Walsh Employment",
     "company_link": "https://uk.linkedin.com/company/walsh-employment-limited?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "New York, United States"
+    "company_location": "New York, United States",
+    "index": 28
   },
   {
     "job_title": "Data Scientist (100% Remote)",
@@ -237,7 +266,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "Motion Recruitment",
     "company_link": "https://www.linkedin.com/company/motion-recruitment-partners?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Arlington, VA"
+    "company_location": "Arlington, VA",
+    "index": 29
   },
   {
     "job_title": "Operations Analyst",
@@ -245,7 +275,8 @@
     "job_listed": "3 days ago",
     "company_name": "LineLeap",
     "company_link": "https://www.linkedin.com/company/lineleap?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Honolulu, HI"
+    "company_location": "Honolulu, HI",
+    "index": 30
   },
   {
     "job_title": "Operator, Data Entry - Junior - Remote",
@@ -253,7 +284,8 @@
     "job_listed": "1 hour ago",
     "company_name": "Deeds Consultancy",
     "company_link": "https://nl.linkedin.com/company/deeds-consultancy?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Oklahoma City, OK"
+    "company_location": "Oklahoma City, OK",
+    "index": 31
   },
   {
     "job_title": "Data Scientist",
@@ -261,7 +293,8 @@
     "job_listed": "1 hour ago",
     "company_name": "Tree Top Staffing LLC",
     "company_link": "https://www.linkedin.com/company/tree-top-staffing-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 32
   },
   {
     "job_title": "Entry/Junior Level Data Scientist/Python Programmer",
@@ -269,7 +302,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Houston, TX"
+    "company_location": "Houston, TX",
+    "index": 33
   },
   {
     "job_title": "Python Developer",
@@ -277,7 +311,8 @@
     "job_listed": "1 hour ago",
     "company_name": "NLB Services",
     "company_link": "https://www.linkedin.com/company/nlb-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Austin, Texas Metropolitan Area"
+    "company_location": "Austin, Texas Metropolitan Area",
+    "index": 34
   },
   {
     "job_title": "Entry Level Data Analyst (Remote)",
@@ -285,7 +320,8 @@
     "job_listed": "5 hours ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Cambridge, MA"
+    "company_location": "Cambridge, MA",
+    "index": 35
   },
   {
     "job_title": "Python Developer",
@@ -293,7 +329,8 @@
     "job_listed": "23 hours ago",
     "company_name": "Headway Tek Inc",
     "company_link": "https://www.linkedin.com/company/headway-tek-inc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Sunnyvale, CA"
+    "company_location": "Sunnyvale, CA",
+    "index": 36
   },
   {
     "job_title": "Python Developer",
@@ -301,7 +338,8 @@
     "job_listed": "22 hours ago",
     "company_name": "Synechron",
     "company_link": "https://www.linkedin.com/company/synechron?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Jersey City, NJ"
+    "company_location": "Jersey City, NJ",
+    "index": 37
   },
   {
     "job_title": "Systems Analyst (Entry Level)",
@@ -309,7 +347,8 @@
     "job_listed": "1 day ago",
     "company_name": "Pattern Learning AI - Career & Tech Recruitment Reimagined!",
     "company_link": "https://www.linkedin.com/company/careerwithpatternlearning?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Texas, United States"
+    "company_location": "Texas, United States",
+    "index": 38
   },
   {
     "job_title": "Data Analyst",
@@ -317,7 +356,8 @@
     "job_listed": "5 hours ago",
     "company_name": "EASE Logistics",
     "company_link": "https://www.linkedin.com/company/ease-logistics-services-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Dublin, OH"
+    "company_location": "Dublin, OH",
+    "index": 39
   },
   {
     "job_title": "Python Developer",
@@ -325,7 +365,8 @@
     "job_listed": "3 hours ago",
     "company_name": "Take2 Consulting, LLC",
     "company_link": "https://www.linkedin.com/company/take2-consulting-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 40
   },
   {
     "job_title": "Data Analyst \u2013 Remote",
@@ -333,7 +374,8 @@
     "job_listed": "6 hours ago",
     "company_name": "GCN Staffing & Recruiting",
     "company_link": "https://www.linkedin.com/company/gcn-staffing-recruiting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "California, CA"
+    "company_location": "California, CA",
+    "index": 41
   },
   {
     "job_title": "Entry Level Data Scientist (Remote)",
@@ -341,7 +383,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Hayward, CA"
+    "company_location": "Hayward, CA",
+    "index": 42
   },
   {
     "job_title": "Data Analyst",
@@ -349,7 +392,8 @@
     "job_listed": "5 hours ago",
     "company_name": "MK Recruiting",
     "company_link": "https://www.linkedin.com/company/mk-recruiting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 43
   },
   {
     "job_title": "Cyber Fraud Data Analyst",
@@ -357,7 +401,8 @@
     "job_listed": "1 day ago",
     "company_name": "SoFi",
     "company_link": "https://www.linkedin.com/company/sofi?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Cottonwood Heights, UT"
+    "company_location": "Cottonwood Heights, UT",
+    "index": 44
   },
   {
     "job_title": "Python Developer",
@@ -365,7 +410,8 @@
     "job_listed": "1 day ago",
     "company_name": "Narvee Tech",
     "company_link": "https://in.linkedin.com/company/narveetech?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Dallas, TX"
+    "company_location": "Dallas, TX",
+    "index": 45
   },
   {
     "job_title": "Junior Python Developer",
@@ -373,7 +419,8 @@
     "job_listed": "6 hours ago",
     "company_name": "HireMeFast - Land Job Offers On Auto-Pilot- Hire Top Talents - Staffing & Recruitment",
     "company_link": "https://www.linkedin.com/company/hiremefastrecruitmentstaffingagency?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Houston, TX"
+    "company_location": "Houston, TX",
+    "index": 46
   },
   {
     "job_title": "Python Developer",
@@ -381,7 +428,8 @@
     "job_listed": "1 day ago",
     "company_name": "Mapout Digital solutions inc",
     "company_link": "https://www.linkedin.com/company/mapoutinc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Irving, TX"
+    "company_location": "Irving, TX",
+    "index": 47
   },
   {
     "job_title": "Application Developer (hybrid)",
@@ -389,7 +437,8 @@
     "job_listed": "15 hours ago",
     "company_name": "Zirous",
     "company_link": "https://www.linkedin.com/company/zirous?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "West Des Moines, IA"
+    "company_location": "West Des Moines, IA",
+    "index": 48
   },
   {
     "job_title": "Python Developer _Contract_ Omaha, NE(Onsite)",
@@ -397,7 +446,8 @@
     "job_listed": "22 hours ago",
     "company_name": "BURGEON IT SERVICES",
     "company_link": "https://www.linkedin.com/company/burgeon-it-services-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Omaha, NE"
+    "company_location": "Omaha, NE",
+    "index": 49
   },
   {
     "job_title": "Python Developer",
@@ -405,7 +455,8 @@
     "job_listed": "6 hours ago",
     "company_name": "Surge Technology Solutions Inc",
     "company_link": "https://www.linkedin.com/company/surge-technology-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 50
   },
   {
     "job_title": "Front End Developer (Entry Level) - US/Canada",
@@ -413,7 +464,8 @@
     "job_listed": "3 hours ago",
     "company_name": "Pattern Learning AI - Career & Tech Recruitment Reimagined!",
     "company_link": "https://www.linkedin.com/company/careerwithpatternlearning?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "California, United States"
+    "company_location": "California, United States",
+    "index": 51
   },
   {
     "job_title": "Cyber Fraud Data Analyst",
@@ -421,7 +473,8 @@
     "job_listed": "1 day ago",
     "company_name": "SoFi",
     "company_link": "https://www.linkedin.com/company/sofi?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Frisco, TX"
+    "company_location": "Frisco, TX",
+    "index": 52
   },
   {
     "job_title": "Python Developer",
@@ -429,7 +482,8 @@
     "job_listed": "2 hours ago",
     "company_name": "Aditi Consulting",
     "company_link": "https://www.linkedin.com/company/aditiconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Illinois, United States"
+    "company_location": "Illinois, United States",
+    "index": 53
   },
   {
     "job_title": "Python Developer",
@@ -437,7 +491,8 @@
     "job_listed": "8 hours ago",
     "company_name": "maven",
     "company_link": "https://www.linkedin.com/company/maven-alpha?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "New York City Metropolitan Area"
+    "company_location": "New York City Metropolitan Area",
+    "index": 54
   },
   {
     "job_title": "Python Developer",
@@ -445,7 +500,8 @@
     "job_listed": "6 hours ago",
     "company_name": "UST",
     "company_link": "https://www.linkedin.com/company/ustglobal?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Hillsboro, OR"
+    "company_location": "Hillsboro, OR",
+    "index": 55
   },
   {
     "job_title": "Senior Data Scientist",
@@ -453,7 +509,8 @@
     "job_listed": "5 hours ago",
     "company_name": "Domino's",
     "company_link": "https://www.linkedin.com/company/domino%27s-pizza?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Ann Arbor, MI"
+    "company_location": "Ann Arbor, MI",
+    "index": 56
   },
   {
     "job_title": "Senior Python Developer",
@@ -461,7 +518,8 @@
     "job_listed": "9 hours ago",
     "company_name": "Workforce Connections",
     "company_link": "https://www.linkedin.com/company/workforce-connections?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 57
   },
   {
     "job_title": "Data Analyst Internship",
@@ -469,7 +527,8 @@
     "job_listed": "1 day ago",
     "company_name": "Radiate",
     "company_link": "https://www.linkedin.com/company/radiate-inc-?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "New York City Metropolitan Area"
+    "company_location": "New York City Metropolitan Area",
+    "index": 58
   },
   {
     "job_title": "Decision Scientist",
@@ -477,7 +536,8 @@
     "job_listed": "12 hours ago",
     "company_name": "Meta",
     "company_link": "https://www.linkedin.com/company/meta?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "San Francisco, CA"
+    "company_location": "San Francisco, CA",
+    "index": 59
   },
   {
     "job_title": "Python Application Developer",
@@ -485,7 +545,8 @@
     "job_listed": "58 minutes ago",
     "company_name": "Futran Solutions",
     "company_link": "https://www.linkedin.com/company/futransolutionsinc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Austin, TX"
+    "company_location": "Austin, TX",
+    "index": 60
   },
   {
     "job_title": "Cyber Fraud Data Analyst",
@@ -493,7 +554,8 @@
     "job_listed": "1 day ago",
     "company_name": "SoFi",
     "company_link": "https://www.linkedin.com/company/sofi?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Jacksonville, FL"
+    "company_location": "Jacksonville, FL",
+    "index": 61
   },
   {
     "job_title": "Senior Python Developer",
@@ -501,7 +563,8 @@
     "job_listed": "1 day ago",
     "company_name": "spinTwo",
     "company_link": "https://www.linkedin.com/company/spintwo?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "North Bethesda, MD"
+    "company_location": "North Bethesda, MD",
+    "index": 62
   },
   {
     "job_title": "Python Developer",
@@ -509,7 +572,8 @@
     "job_listed": "1 day ago",
     "company_name": "Global Pharma Tek",
     "company_link": "https://www.linkedin.com/company/global-pharma-tek?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Newport Beach, CA"
+    "company_location": "Newport Beach, CA",
+    "index": 63
   },
   {
     "job_title": "Software Engineer",
@@ -517,7 +581,8 @@
     "job_listed": "23 hours ago",
     "company_name": "Pure Storage",
     "company_link": "https://www.linkedin.com/company/purestorage?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Santa Clara, CA"
+    "company_location": "Santa Clara, CA",
+    "index": 64
   },
   {
     "job_title": "Data Analyst",
@@ -525,7 +590,8 @@
     "job_listed": "3 hours ago",
     "company_name": "ACT1 Federal",
     "company_link": "https://www.linkedin.com/company/act1federal?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Dayton, OH"
+    "company_location": "Dayton, OH",
+    "index": 65
   },
   {
     "job_title": "Python Software Engineer",
@@ -533,7 +599,8 @@
     "job_listed": "12 hours ago",
     "company_name": "Walsh Employment",
     "company_link": "https://uk.linkedin.com/company/walsh-employment-limited?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "New York, United States"
+    "company_location": "New York, United States",
+    "index": 66
   },
   {
     "job_title": "Data Analyst",
@@ -541,7 +608,8 @@
     "job_listed": "1 hour ago",
     "company_name": "Coders Data",
     "company_link": "https://www.linkedin.com/company/codersdata?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Pennsylvania, United States"
+    "company_location": "Pennsylvania, United States",
+    "index": 67
   },
   {
     "job_title": "Python Developer (Data)",
@@ -549,7 +617,8 @@
     "job_listed": "1 day ago",
     "company_name": "Prestige Staffing",
     "company_link": "https://www.linkedin.com/company/prestige-staffing?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 68
   },
   {
     "job_title": "Python Developer",
@@ -557,7 +626,8 @@
     "job_listed": "1 day ago",
     "company_name": "Narvee Tech",
     "company_link": "https://in.linkedin.com/company/narveetech?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Dallas, TX"
+    "company_location": "Dallas, TX",
+    "index": 69
   },
   {
     "job_title": "Entry Level Business/Data Analyst",
@@ -565,7 +635,8 @@
     "job_listed": "1 day ago",
     "company_name": "Asta Crs Inc",
     "company_link": "https://www.linkedin.com/company/asta-crs-inc.?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Ashburn, VA"
+    "company_location": "Ashburn, VA",
+    "index": 70
   },
   {
     "job_title": "Jr. Business Analyst",
@@ -573,7 +644,8 @@
     "job_listed": "9 hours ago",
     "company_name": "Asta Crs Inc",
     "company_link": "https://www.linkedin.com/company/asta-crs-inc.?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Herndon, VA"
+    "company_location": "Herndon, VA",
+    "index": 71
   },
   {
     "job_title": "Python Developer",
@@ -581,7 +653,8 @@
     "job_listed": "10 hours ago",
     "company_name": "SSTech LLC",
     "company_link": "https://www.linkedin.com/company/sstech-llc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Irving, TX"
+    "company_location": "Irving, TX",
+    "index": 72
   },
   {
     "job_title": "Python Developer (Python, C++)",
@@ -589,7 +662,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "Motion Recruitment",
     "company_link": "https://www.linkedin.com/company/motion-recruitment-partners?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Dallas, TX"
+    "company_location": "Dallas, TX",
+    "index": 73
   },
   {
     "job_title": "Python Software Engineer",
@@ -597,7 +671,8 @@
     "job_listed": "17 hours ago",
     "company_name": "RIT Solutions, Inc.",
     "company_link": "https://www.linkedin.com/company/rit-solutions-inc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Sunnyvale, CA"
+    "company_location": "Sunnyvale, CA",
+    "index": 74
   },
   {
     "job_title": "Senior Data Analyst, Sales",
@@ -605,7 +680,8 @@
     "job_listed": "1 day ago",
     "company_name": "MongoDB",
     "company_link": "https://www.linkedin.com/company/mongodbinc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "New York, NY"
+    "company_location": "New York, NY",
+    "index": 75
   },
   {
     "job_title": "Entry Level Python Developer",
@@ -613,7 +689,8 @@
     "job_listed": "2 days ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Newark, NJ"
+    "company_location": "Newark, NJ",
+    "index": 76
   },
   {
     "job_title": "Junior Software Developer",
@@ -621,7 +698,8 @@
     "job_listed": "1 day ago",
     "company_name": "Pattern Learning AI - Career & Tech Recruitment Reimagined!",
     "company_link": "https://www.linkedin.com/company/careerwithpatternlearning?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Texas, United States"
+    "company_location": "Texas, United States",
+    "index": 77
   },
   {
     "job_title": "Python Developer",
@@ -629,7 +707,8 @@
     "job_listed": "3 weeks ago",
     "company_name": "Cybertec, Inc",
     "company_link": "https://www.linkedin.com/company/cybertecinc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Sunnyvale, CA"
+    "company_location": "Sunnyvale, CA",
+    "index": 78
   },
   {
     "job_title": "Data Scientist - Marketing Analytics",
@@ -637,7 +716,8 @@
     "job_listed": "1 day ago",
     "company_name": "MarketBridge",
     "company_link": "https://www.linkedin.com/company/marketbridge?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Washington, DC"
+    "company_location": "Washington, DC",
+    "index": 79
   },
   {
     "job_title": "Python Developer",
@@ -645,7 +725,8 @@
     "job_listed": "2 hours ago",
     "company_name": "Talent Group",
     "company_link": "https://www.linkedin.com/company/talentgroup-staffing?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Austin, Texas Metropolitan Area"
+    "company_location": "Austin, Texas Metropolitan Area",
+    "index": 80
   },
   {
     "job_title": "Python Developer",
@@ -653,7 +734,8 @@
     "job_listed": "1 week ago",
     "company_name": "NR Consulting",
     "company_link": "https://www.linkedin.com/company/nrconsultingllc?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Cincinnati, OH"
+    "company_location": "Cincinnati, OH",
+    "index": 81
   },
   {
     "job_title": "Entry Level Python Programmer (Remote)",
@@ -661,7 +743,8 @@
     "job_listed": "1 day ago",
     "company_name": "SynergisticIT",
     "company_link": "https://www.linkedin.com/company/synergisticit?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Santa Clara, CA"
+    "company_location": "Santa Clara, CA",
+    "index": 82
   },
   {
     "job_title": "Data Analyst \u2013 Remote",
@@ -669,7 +752,8 @@
     "job_listed": "6 hours ago",
     "company_name": "GCN Staffing & Recruiting",
     "company_link": "https://www.linkedin.com/company/gcn-staffing-recruiting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "California, CA"
+    "company_location": "California, CA",
+    "index": 83
   },
   {
     "job_title": "Python Developer",
@@ -677,7 +761,8 @@
     "job_listed": "6 hours ago",
     "company_name": "Surge Technology Solutions Inc",
     "company_link": "https://www.linkedin.com/company/surge-technology-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "United States"
+    "company_location": "United States",
+    "index": 84
   },
   {
     "job_title": "Data Analyst \u2013 Remote",
@@ -685,7 +770,8 @@
     "job_listed": "12 hours ago",
     "company_name": "GCN Staffing & Recruiting",
     "company_link": "https://www.linkedin.com/company/gcn-staffing-recruiting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "California, CA"
+    "company_location": "California, CA",
+    "index": 85
   },
   {
     "job_title": "Data Analyst",
@@ -693,7 +779,8 @@
     "job_listed": "1 hour ago",
     "company_name": "Coders Data",
     "company_link": "https://www.linkedin.com/company/codersdata?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Pennsylvania, United States"
+    "company_location": "Pennsylvania, United States",
+    "index": 86
   },
   {
     "job_title": "Cyber Fraud Data Analyst",
@@ -701,7 +788,8 @@
     "job_listed": "1 day ago",
     "company_name": "SoFi",
     "company_link": "https://www.linkedin.com/company/sofi?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Frisco, TX"
+    "company_location": "Frisco, TX",
+    "index": 87
   },
   {
     "job_title": "Decision Scientist",
@@ -709,7 +797,8 @@
     "job_listed": "12 hours ago",
     "company_name": "Meta",
     "company_link": "https://www.linkedin.com/company/meta?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "San Francisco, CA"
+    "company_location": "San Francisco, CA",
+    "index": 88
   },
   {
     "job_title": "Python Developer",
@@ -717,7 +806,8 @@
     "job_listed": "2 hours ago",
     "company_name": "Aditi Consulting",
     "company_link": "https://www.linkedin.com/company/aditiconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Illinois, United States"
+    "company_location": "Illinois, United States",
+    "index": 89
   },
   {
     "job_title": "Private Python Tutor - Remote | WFH",
@@ -725,7 +815,8 @@
     "job_listed": "3 days ago",
     "company_name": "Get It Recruit - Educational Services",
     "company_link": "https://www.linkedin.com/company/get-it-recruit-educational-services?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Los Angeles, CA"
+    "company_location": "Los Angeles, CA",
+    "index": 90
   },
   {
     "job_title": "Front End Developer (Entry Level) - US/Canada",
@@ -733,7 +824,8 @@
     "job_listed": "3 hours ago",
     "company_name": "Pattern Learning AI - Career & Tech Recruitment Reimagined!",
     "company_link": "https://www.linkedin.com/company/careerwithpatternlearning?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "California, United States"
+    "company_location": "California, United States",
+    "index": 91
   },
   {
     "job_title": "Python Developer",
@@ -741,7 +833,8 @@
     "job_listed": "2 weeks ago",
     "company_name": "Cynet Systems",
     "company_link": "https://www.linkedin.com/company/cynet-systems?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Columbus, IN"
+    "company_location": "Columbus, IN",
+    "index": 92
   },
   {
     "job_title": "Python Developer",
@@ -749,7 +842,8 @@
     "job_listed": "8 hours ago",
     "company_name": "maven",
     "company_link": "https://www.linkedin.com/company/maven-alpha?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "New York City Metropolitan Area"
+    "company_location": "New York City Metropolitan Area",
+    "index": 93
   },
   {
     "job_title": "Python Developer",
@@ -757,6 +851,7 @@
     "job_listed": "6 hours ago",
     "company_name": "UST",
     "company_link": "https://www.linkedin.com/company/ustglobal?trk=public_jobs_jserp-result_job-search-card-subtitle",
-    "company_location": "Hillsboro, OR"
+    "company_location": "Hillsboro, OR",
+    "index": 94
   }
 ]
