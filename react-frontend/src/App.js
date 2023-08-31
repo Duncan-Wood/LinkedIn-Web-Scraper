@@ -1,17 +1,16 @@
 import "./App.css";
 import Nav from "./components/Nav";
-import Home from "./components/Home";
-
+import Main from "./components/Main"; 
+import Login from "./components/Login"; 
 
 const App = () => {
   return (
     <>
-      <Nav id='nav'/>
-      <main id='main'>
-        <Home id='home'/>
-      </main>
+      <Nav />
+      {/* <Main />  */}
+      <Login />
     </> 
-    );
+  );
 };
 
 export default App;

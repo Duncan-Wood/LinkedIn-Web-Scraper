@@ -8,8 +8,7 @@ const Home = () => {
 
   return (
     <div className="home">
-      <Header />
-      <UploadResume />
+      home
       <JobRecommendations recommendations={dummyRecommendations} />
     </div>
   );
